@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981048746142",
+    "project_id": "nakbrach-af7ed",
+    "storage_bucket": "nakbrach-af7ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981048746142:android:8f675b981295e5469f1b8f",
+        "android_client_info": {
+          "package_name": "com.example.nakbrach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpr2tyjmzPJrun6h-KRMRF1mlxCydkDTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
