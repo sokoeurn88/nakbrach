@@ -3,6 +3,7 @@ import 'package:nakbrach/main_screens/category.dart';
 import 'package:nakbrach/main_screens/dashboard.dart';
 import 'package:nakbrach/main_screens/home.dart';
 import 'package:nakbrach/main_screens/stores.dart';
+import 'package:nakbrach/main_screens/upload_product.dart';
 
 class SupplierHomeScreen extends StatefulWidget {
   const SupplierHomeScreen({super.key});
@@ -18,7 +19,7 @@ class _CustomerHomeScreenState extends State<SupplierHomeScreen> {
     CategoryScreen(),
     StoresScreen(),
     DashboardScreen(),
-    Center(child: Text('Upload')),
+    UploadProductScreen(),
   ];
   @override
   Widget build(BuildContext context) {
